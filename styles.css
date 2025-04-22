@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+
+.post {
+    background: white;
+    margin: auto;
+    width: 500px;
+    height: 610px;
+    font-size: 14px;
+}
+
+.header {
+    display: flex;
+}
+
+.icons {
+    display: flex;
+    margin-left: 6px;
+}
+
+p {
+    text-align: left;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 4px;
+}
+
+div.icons i {
+    margin: 5px;
+    font-size: 30px;
+    padding: 3px;
+    
+}
+
+#bookmark {
+    margin-left: 300px;
+}
+
+div.header div {
+    margin-top: 12px;
+    margin-bottom: 8px;
+    margin-left: 20px;
+}
+
+div.header i {
+    font-size: 30px;
+}
+
+#dots {
+    margin-left: 360px;
+}
+
+#uppertext {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+}
